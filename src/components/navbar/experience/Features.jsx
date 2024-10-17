@@ -6,7 +6,7 @@ import Card from './Card';
 
 const Features = () => {
   return (
-    <section id="features" 
+    <section _id="features" 
     className="w-full  py-20  border-b-[1px] border-b-black">
      <Title title="Features" des="What I do"/>
      <div className='grid grid-cols-2 gap-20'>
